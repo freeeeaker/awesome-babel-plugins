@@ -4,7 +4,7 @@
 * transform-decorators-legacy
 * transform-class-properties
 * @babel/plugin-proposal-object-rest-spread
-* transform-export-extensions
+* @babel/plugin-proposal-export-default-from
 
 ## awesome-chrome-plugins
 * Allow-Control-Allow-Origin: *
