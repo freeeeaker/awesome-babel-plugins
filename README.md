@@ -1,10 +1,10 @@
 ## awesome-babel-plugins
 
-* transform-decorators-legacy
-* transform-class-properties
+* @babel/plugin-proposal-decorators
 * @babel/plugin-proposal-object-rest-spread
 * @babel/plugin-proposal-export-default-from
 * @babel/plugin-proposal-optional-chaining
+* @babel/plugin-proposal-class-properties
 
 ## awesome-chrome-plugins
 * Allow-Control-Allow-Origin: *
