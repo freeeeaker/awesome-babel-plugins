@@ -1,3 +1,7 @@
+## awesome-tool
+* nvm node版本管理
+* nrm npm源地址管理
+
 ## awesome-babel-plugins
 
 * @babel/plugin-proposal-decorators
